@@ -33,5 +33,30 @@ gaining unauthorized access with return permission
 collection of web called website
 
 two fields 
-affense and defense
+affense and defense called red and blue team.both mingled is called purple team.
+defense is a soc analysist.
+three types of hackers 
+white,black,grey hat
+architecture 
+zero knowledge about the tools and they hack called black hat hackers
+both white and black are grey hat hackers
 
+CIA tired
+CIA=confidentiality,integrity,availability
+confidentiality
+
+authentication - verify someone identity
+authorization or access control - getting permission
+
+authentication is consider by 3factors
+1.something you know by your own
+2.something you have like aadhar number,otp,pan card.
+3.something you are like biometric,physical characteristics(left-handed)
+if we are using any two factor in the above three it is called 2factor authentication
+
+authorization it means getting permission like installing software in lap we give permission
+
+intrgrity
+it means orginality
+
+conversion of clear text to cipher text is called encryption
