@@ -80,3 +80,22 @@ IPv6
 
 MYSQL use - 
 local host work on port 80.
+
+windows works on
+1..exe file
+2.batfile
+
+use in cmd prompt            `
+in windows while using the pink (ip address of who u attack)-n 4 it will transfer 4 packet as default
+but in linux we need to determine the count pink (ip address of who u attack)-c 4
+
+to find the ip address of some website use ping and copy the address bar of the website and remove the http://www.& last remove/
+C:\Users\WELCOME>ping camsmkce.in
+
+network 
+
+1 use the cross over wire to connect the same devices
+2 straight through is used for connecting different devices
+3 to connect the two router use the serial cable
+
+
