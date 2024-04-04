@@ -98,4 +98,10 @@ network
 2 straight through is used for connecting different devices
 3 to connect the two router use the serial cable
 
+proxy
+  
 
+vpn - it encrypit the cnnection
+---vpn-----    => security reason
+client server communication 
+---vpn-----
