@@ -124,3 +124,5 @@ sender ack to client that ack has receiverd.
 
 tls(transport layer security) hand shake
 
+all combination password called bruteforce attack
+list of password are compared called dictionary attack
