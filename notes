@@ -113,3 +113,14 @@ decryption -> ciper to clear text
 
 symmetric -> use single key
 Asymmetric -> use public and private key
+
+whireshark
+ip.addr==ip address
+
+three way hand shake  -> occur in tcp protocol
+data transfer
+client ack to sender
+sender ack to client that ack has receiverd.
+
+tls(transport layer security) hand shake
+
