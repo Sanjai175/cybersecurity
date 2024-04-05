@@ -170,4 +170,25 @@ To on ,off,check status
 3.sudo services.acache restart  -> will restart the server
 4.sudo services.acache status  -> will give the statusof the server
 
+web protocol - http / https
+domain - google.com
+subdomain - maps.google.com, mail.google.com, games.google.com
+
+linux default website directory
+command : ls /var/www/html/
+
+To show in vertical
+command : ls -l/var/www/html/
+
+basic path 
+linux - /var/www/html
+windows -c:\inetpub\wwwroot 
+
+username ENUMARATION
+
+pushing the detail and verifying the account is presented on the givn details called enumaration detail like phNo,email,etc...
+
+
+
+
 
