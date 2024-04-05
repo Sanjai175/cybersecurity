@@ -149,3 +149,8 @@ ARP - it is used to connect the ip and mac address
 burbshout
 
 client--->proxy-->server
+KALI
+
+in kali most ofthe time network will not work instead of reinstalling run the  commands
+1.sudo nmcli networking on
+2.sudo service NetworkManager start
