@@ -154,16 +154,20 @@ KALI
 to copy ctrl+shift+c
 to paste ctrl+shift+v
 
+run the command while opening kali to change the respository
+cat /etc/apt/sources.list
+
 in kali most ofthe time network will not work instead of reinstalling run the  commands
+
 1.sudo nmcli networking on
 2.sudo service NetworkManager start  -> will on the net
 3.sudo service NetworkManager stop  -> will stop he net
 
-to on ,off,check status
+To on ,off,check status
 
 1.sudo services.acache start  -> will start the server
 2.sudo services.acache stop  -> will stop the server
 3.sudo services.acache restart  -> will restart the server
 4.sudo services.acache status  -> will give the statusof the server
-run the command while opening kali to change the respository
-cat /etc/apt/sources.list
+
+
