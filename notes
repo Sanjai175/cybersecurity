@@ -103,7 +103,7 @@ network
 proxy
   
 
-vpn - it encrypit the cnnection
+vpn - it encrypit the connection
 ---vpn-----    => security reason
 client server communication 
 ---vpn-----
@@ -126,3 +126,5 @@ tls(transport layer security) hand shake
 
 all combination password called bruteforce attack
 predicted list of password are compared called dictionary attack
+
+ARP - it is used to connect the ip and mac address
