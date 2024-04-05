@@ -1,3 +1,10 @@
 every web load first with index.html
 user agent tells the which browser we use
 in request --> above the blank line all are called headers we can able to change everyword.it is encrypted
+
+In burpsuite
+proxy --> used for show histroy
+repeater --> used for check manually one by one by editing it
+intruder --> same as repeater but it is automatic not manual  (sniper attack)
+in intruder click place the change u want and click add on the right side
+then load the payload by clicking to payload in burpsuit and click start.
