@@ -122,7 +122,21 @@ data transfer
 client ack to sender
 sender ack to client that ack has receiverd.
 
-tls(transport layer security) hand shake
+tls(transport layer security)3way hand shake
+in any website there is definetly one method is present like get,post,etc... and every request have respond with its status
+
+TESTING IS DONE IN 3 ENVIRONMENT
+production - web application or live website
+staging - actual copy of production
+qa environment - test build
+
+http method    RESPONSE CODE
+GET              1XX-INFORMATION MESSAGES
+POST             2XX-ok
+PUT              3XX-redirection
+DELETE           4XX-client-side error  eg(404 error in website)
+OPTION           5XX-server side error  eg(server down,maintainence)
+
 
 all combination password called bruteforce attack
 predicted list of password are compared called dictionary attack
