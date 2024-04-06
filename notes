@@ -175,3 +175,5 @@ there are 4 types sql injection
 1.error based
     admin' OR 1=1--    //   admin" OR 1=1--
         it will not recquire any detail we can sign in
+login.php
+sql injection payload github
