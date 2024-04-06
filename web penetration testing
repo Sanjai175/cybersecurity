@@ -8,3 +8,10 @@ repeater --> used for check manually one by one by editing it
 intruder --> same as repeater but it is automatic not manual  (sniper attack)
 in intruder click place the change u want and click add on the right side
 then load the payload by clicking to payload in burpsuit and click start.
+
+in pen testing there are five phase
+1.information gathering  (like how many host,routers,ports,protocols,tech used by web application,cms(content management system))
+2.scanning
+3.gaining access (to hack the system)
+4.maintaining access  (peristence)
+5.clearing tracks 
