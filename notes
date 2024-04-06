@@ -167,6 +167,7 @@ sast tools - Static Application Security Testing
 
 owaps top ten --> top ten vulnerability can be identified by burpsutie
 
-
+How to detect sql injection?
+using single or double quote
 
 
