@@ -170,4 +170,8 @@ owaps top ten --> top ten vulnerability can be identified by burpsutie
 How to detect sql injection?
 using single or double quote
 
-
+sql injection 
+there are 4 types sql injection
+1.error based
+    admin' OR 1=1--    //   admin" OR 1=1--
+        it will not recquire any detail we can sign in
