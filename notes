@@ -163,30 +163,8 @@ in kali most ofthe time network will not work instead of reinstalling run the  c
 2.sudo service NetworkManager start  -> will on the net
 3.sudo service NetworkManager stop  -> will stop he net
 
-To on ,off,check status
+sast tools - Static Application Security Testing 
 
-1.sudo services.acache start  -> will start the server
-2.sudo services.acache stop  -> will stop the server
-3.sudo services.acache restart  -> will restart the server
-4.sudo services.acache status  -> will give the statusof the server
-
-web protocol - http / https
-domain - google.com
-subdomain - maps.google.com, mail.google.com, games.google.com
-
-linux default website directory
-command : ls /var/www/html/
-
-To show in vertical
-command : ls -l/var/www/html/
-
-basic path 
-linux - /var/www/html
-windows -c:\inetpub\wwwroot 
-
-username ENUMARATION
-
-pushing the detail and verifying the account is presented on the givn details called enumaration detail like phNo,email,etc...
 
 
 
