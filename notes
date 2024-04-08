@@ -177,3 +177,18 @@ there are 4 types sql injection
         it will not recquire any detail we can sign in
 login.php
 sql injection payload github
+
+shells
+bind shell - process /service/port combine
+web shell - accesd by the browser itself
+reverse shell -> user intraction 
+
+https://www.revshells.com/  --> this website is used to gain access the other system
+change your own port and ip save it as batch file and send to the receiver
+and in linux we want to enter and wait for the access 
+so use
+nc -lvmp 8888  (the 8888 is the port)
+
+tcpview it is for windows used to detect the port used by the system 
+process explorer 
+run both as a admininstrator
