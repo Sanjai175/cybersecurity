@@ -192,3 +192,6 @@ nc -lvmp 8888  (the 8888 is the port)
 tcpview it is for windows used to detect the port used by the system 
 process explorer 
 run both as a admininstrator
+
+ip link set dev ens33 up
+dhclient -v ens33
