@@ -3,3 +3,9 @@ packet crafter is used to craft the packet we can able to assign want packet we 
 cybershef- it is a website which is used to change the images formate to store in database
 zaproxy tool - used for vulnerability finding.
 canery tokens--> is a weebsite used for tracking the document or anythings.
+
+
+splunk - it is a SIEM (security information and event management) tool
+windows machine is work as a server
+splnk forwarder is a another tool. it is installed in the client machine forward the data to server.
+x86_64 it represent 6bit operating system.
