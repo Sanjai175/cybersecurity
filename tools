@@ -10,3 +10,19 @@ splnk forwarder is a another tool. it is installed in the client machine forward
 x86_64 it represent 6bit operating system.
 
 For port scanning  the tool is - Nmap
+
+DIRECTORY BUSTING/FUZZING
+{
+dirb
+wfuzz                  
+gobuster --> most important
+ffuf
+}
+
+TO GET THE LOGIN PAGE WE SCAN
+
+dirb http:ip
+it will scan all one by one and produce large output
+let we use dirb:http:ip -r |grep 200   --> it produce the code 200 only
+
+
