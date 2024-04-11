@@ -8,3 +8,5 @@ splunk - it is a SIEM (security information and event management) tool
 windows machine is work as a server
 splnk forwarder is a another tool. it is installed in the client machine forward the data to server.
 x86_64 it represent 6bit operating system.
+
+For port scanning  the tool is - Nmap
