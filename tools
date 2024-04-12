@@ -26,3 +26,4 @@ it will scan all one by one and produce large output
 let we use dirb:http:ip -r |grep 200   --> it produce the code 200 only
 
 
+
