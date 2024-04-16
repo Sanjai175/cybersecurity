@@ -195,3 +195,8 @@ run both as a admininstrator
 
 ip link set dev ens33 up
 dhclient -v ens33
+
+
+sop - standard operating procedure
+sla - service level agreement
+mitre att&ck
