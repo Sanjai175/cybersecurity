@@ -200,3 +200,43 @@ dhclient -v ens33
 sop - standard operating procedure
 sla - service level agreement
 mitre att&ck
+
+
+active directory
+
+windows server 2019 installation
+
+create a new vm in the vm ware
+select the iso file
+version --> standard core
+username and password
+omit the key nd continue
+selecte the huge space and click ok
+no changes in disk capacity click ok
+click on ok until in ank to pres any key
+click on the windows standard ui 
+it show some error
+shutdown the kali
+re on the kali
+edit vm ---> floppy disk --> connected power on --->(redo the process) press any key 
+next and install
+click the second option and ok
+in down there is new option click and apply
+
+after installation it open service manager in it click new rolls
+after it shows some info about secutity click next
+rolls and services under it
+
+active directory domain services  check box on 
+dns server  check box on
+click next automatically it install
+after installation clcik the ! on the top right side
+click the server as domain controller
+add a new forest click third option 
+root domain name is the team name (our wish)  eg:wish.local
+click next 
+after domain intallation 
+it ask forest spec
+select the version 
+enter a password click next
+click next upto installation
