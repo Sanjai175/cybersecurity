@@ -246,3 +246,6 @@ cyber kill chain
 there are 7 stages in it
 
 adversary called attacker or hacker
+layer 7 http and https pasword can be cracked using the burpsuite
+ftp can't use burpsuite so we use hydra which is cli based tool 
+  speacility --> support limited protocol
